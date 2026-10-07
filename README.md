@@ -2,7 +2,7 @@
 
 - **Họ và tên:** Phạm Thanh Phong
 - **Mã sinh viên:** N24DTCN120
-- **Môn học:** IT209 - Phát triển ứng dụng Web / Cloud Infrastructure
+- **Môn học:** IT209 
 - **Session:** 06 - Quản trị Hệ thống Tệp tin Linux (FHS) & Phân quyền Nâng cao
 - **Đường dẫn nộp bài:** `homework/session_06/ex3/`
 
